@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="app_greetings">Hello, World</string>
+
+    <string name="collegue_greetings">Добрый вечер, коллеги</string>
+    <string name="post_text">Текст поста</string>
+    <string name="like_button_text">❤ 120</string>
+    <string name="comment_button_text">💬 45</string>
+    <string name="userName">Иван Иванов</string>
+    <string name="nickName">\@nickName</string>
+    <string name="followers_count">123\nподписчиков</string>
+    <string name="following_count">40\nподписок</string>
+    <string name="posts_count">3\nпостов</string>
+    <string name="avatar_desc">avatar_description</string>
+</resources>
